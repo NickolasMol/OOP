@@ -1,0 +1,11 @@
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\obj\Debug\netcoreapp3.1\lab1sharp.csprojAssemblyReference.cache
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\obj\Debug\netcoreapp3.1\lab1sharp.AssemblyInfoInputs.cache
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\obj\Debug\netcoreapp3.1\lab1sharp.AssemblyInfo.cs
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\bin\Debug\netcoreapp3.1\lab1sharp.exe
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\bin\Debug\netcoreapp3.1\lab1sharp.deps.json
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\bin\Debug\netcoreapp3.1\lab1sharp.runtimeconfig.json
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\bin\Debug\netcoreapp3.1\lab1sharp.runtimeconfig.dev.json
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\bin\Debug\netcoreapp3.1\lab1sharp.dll
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\bin\Debug\netcoreapp3.1\lab1sharp.pdb
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\obj\Debug\netcoreapp3.1\lab1sharp.dll
+C:\Users\Nickolas Voznyuk\source\repos\lab1sharp\lab1sharp\obj\Debug\netcoreapp3.1\lab1sharp.pdb

@@ -1,0 +1,3 @@
+﻿  lab1++.cpp
+C:\Users\Nickolas Voznyuk\source\repos\lab1++\lab1++\lab1++.cpp(49,24): error C2664: 'void more(int &,int &,bool &)': cannot convert argument 1 from 'int' to 'int &'
+C:\Users\Nickolas Voznyuk\source\repos\lab1++\lab1++\lab1++.cpp(26,6): message : see declaration of 'more'
