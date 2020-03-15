@@ -1,0 +1,4 @@
+C:\Users\Nickolas Voznyuk\source\repos\MyString_Text\MyString_Text\bin\Debug\MyString_Text.dll
+C:\Users\Nickolas Voznyuk\source\repos\MyString_Text\MyString_Text\bin\Debug\MyString_Text.pdb
+C:\Users\Nickolas Voznyuk\source\repos\MyString_Text\MyString_Text\obj\Debug\MyString_Text.dll
+C:\Users\Nickolas Voznyuk\source\repos\MyString_Text\MyString_Text\obj\Debug\MyString_Text.pdb

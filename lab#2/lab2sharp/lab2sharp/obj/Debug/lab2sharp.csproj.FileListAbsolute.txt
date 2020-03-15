@@ -1,0 +1,7 @@
+C:\Users\Nickolas Voznyuk\source\repos\lab2sharp\lab2sharp\bin\Debug\lab2sharp.exe.config
+C:\Users\Nickolas Voznyuk\source\repos\lab2sharp\lab2sharp\bin\Debug\lab2sharp.exe
+C:\Users\Nickolas Voznyuk\source\repos\lab2sharp\lab2sharp\bin\Debug\lab2sharp.pdb
+C:\Users\Nickolas Voznyuk\source\repos\lab2sharp\lab2sharp\obj\Debug\lab2sharp.csproj.CopyComplete
+C:\Users\Nickolas Voznyuk\source\repos\lab2sharp\lab2sharp\obj\Debug\lab2sharp.exe
+C:\Users\Nickolas Voznyuk\source\repos\lab2sharp\lab2sharp\obj\Debug\lab2sharp.pdb
+C:\Users\Nickolas Voznyuk\source\repos\lab2sharp\lab2sharp\obj\Debug\lab2sharp.csprojAssemblyReference.cache
